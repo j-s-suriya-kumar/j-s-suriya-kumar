@@ -71,4 +71,4 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [J S Suriya Kumar](https://github.com/j-s-suriya-kumar)
